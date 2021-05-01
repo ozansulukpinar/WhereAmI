@@ -1,9 +1,7 @@
 # WhereAmI
 GitHub Repo: https://github.com/ozansulukpinar/WhereAmI
 
-This is an application what shows name and flag of the country which user is located according to current 
-
-network connection.
+This is an application what shows name and flag of the country which user is located according to current network connection.
 
 An open-source API, Free IP Geolocation API, is used in the project.
 
