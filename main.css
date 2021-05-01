@@ -1,0 +1,20 @@
+    body, html {
+  height: 100%;
+  margin: 0;
+}
+
+#countryFlag {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#countryName {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 25vw;/* vw = viewport width, 1vw = 1/100th of that */
+}
