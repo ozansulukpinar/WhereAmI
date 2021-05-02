@@ -5,7 +5,7 @@ This is an application what shows name and flag of the country which user is loc
 
 An open-source API, Free IP Geolocation API, is used in the project.
 
-All image data get from an open-source Github project which was developed by Hampus Joakim Borgos.
+All image data get from an open-source Github project which was developed by @hampusborgos.
 
 # API Documentation
 https://freegeoip.app/
